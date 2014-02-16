@@ -49,6 +49,10 @@
      <Compile Include="Assets\scripts\Alex.js" />
      <Compile Include="Assets\scripts\AssetDestroyer.js" />
      <Compile Include="Assets\scripts\CameraFollow.js" />
+     <Compile Include="Assets\scripts\ParallaxScript.js" />
+     <Compile Include="Assets\scripts\PowerupScript.js" />
+     <Compile Include="Assets\scripts\SpawnScript.js" />
+     <Compile Include="Assets\scripts\WallSetupScript.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

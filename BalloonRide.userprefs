@@ -1,10 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/AssetDestroyer.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ParallaxScriot.js">
     <Files>
-      <File FileName="Assets/scripts/CameraFollow.js" Line="8" Column="2" />
-      <File FileName="Assets/scripts/Alex.js" Line="4" Column="1" />
-      <File FileName="Assets/scripts/AssetDestroyer.js" Line="8" Column="2" />
+      <File FileName="Assets/scripts/CameraFollow.js" Line="7" Column="74" />
+      <File FileName="Assets/scripts/Alex.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/AssetDestroyer.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/SpawnScript.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/PowerupScript.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/WallSetupScript.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/ParallaxScriot.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
